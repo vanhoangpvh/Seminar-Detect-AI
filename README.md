@@ -12,8 +12,7 @@ A robust system designed to detect and classify AI-generated Vietnamese text. Th
 
 You can download the fully trained models, datasets, and setup files directly from our Google Drive repository:
 
-👉 **[Download Models and Setup Files Here]([https://drive.google.com/drive/folders/15NOz8KQ_RgUk67oiLyoIzwgCAySgLgr9?fbclid=IwY2xjawPjzVNleHRuA2FlbQIxMABicmlkETFWQ1JqVHFaejZDVjh6RTFXc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkJZ5rvcm7i3_5ZkStXHQNzrz70k1RqesnA2_TG4h7okCxmYfzPaGX_c2iX__aem_AnRxDWCdlHfd6M3Sf9jM9Q](https://drive.google.com/drive/folders/1GGNbPVbpSVYBpSdUAc7JP8u3FEc557gF?usp=drive_link))**
-
+👉 **[Download Models and Setup Files Here]([https://drive.google.com/drive/folders/1GGNbPVbpSVYBpSdUAc7JP8u3FEc557gF?usp=drive_link])
 ## Contribution & Support
 
 Contributions are welcome! If you encounter any bugs, setup failures, or have suggestions for improvements, please feel free to open an **Issue** in this repository or contact me directly for assistance.
